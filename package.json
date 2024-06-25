@@ -1,0 +1,16 @@
+{
+  "name": "dimondthecat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/src/main.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "5.2",
+    "vite": "^5.3.1"
+  },
+  "devDependencies": {
+    "vite-plugin-static-copy": "^1.0.5"
+  }
+}
